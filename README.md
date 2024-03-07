@@ -1,6 +1,6 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
-### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
+### AIM: 
+To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
 relations between variables in large databases. It can be described as analyzing and presenting strong rules discovered
@@ -42,7 +42,12 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
-
+#### EMPLOYEE DATASET:
+![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/eaae22bc-92f3-4f05-a6e8-d02ec17a2f25)
+#### BANKING DATASET:
+![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/4c10d94c-ce4d-4a15-8ece-c68be5f7a0ab)
+#### BUYING DATASET:
+![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/1cc33ee4-7336-4dbc-8c4d-d482e042829c)
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -53,5 +58,15 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+#### EMPLOYEE DATASET:
+![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/280aa5fb-5e5b-42e0-9f21-e90205ef3988)
+
+#### BANKING DATASET:
+![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/f913aa17-debb-43de-852d-c8df496ce5a7)
+
+#### BUYING DATASET:
+![image](https://github.com/dharanielango/WDM_EXP2/assets/94530523/1b80e52b-8035-4be4-a083-bc8211bd1c4f)
+
 
 ### RESULT: 
+Thus the program has been successfully executed.
